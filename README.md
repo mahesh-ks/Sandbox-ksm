@@ -5,7 +5,8 @@ Sandbox to experiment with Git and Github
                  Second Update
 Third update @branch level. 
 Fourth change
-REsolving Issue createdin Git Hub
+REsolving Issue crea1tedin Git Hub
+No change but seeing if issue automatically closes
 ## How to contribute
 - Fork this project
 - Make  your changes
